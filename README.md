@@ -1,6 +1,6 @@
-# MNXUtilsDB 简介
-* MNXUtilsDB 是把 [xUtils3](https://github.com/wyouflf/xUtils3) 数据库模块单独抽取出来，方便使用！当前使用的是xUtils3的V3.5.0版本中的数据库模块。[![](https://jitpack.io/v/maning0303/MNXUtilsDB.svg)](https://jitpack.io/#maning0303/MNXUtilsDB)
+# MNXUtilsDB 简介 [![](https://jitpack.io/v/maning0303/MNXUtilsDB.svg)](https://jitpack.io/#maning0303/MNXUtilsDB)
 
+* MNXUtilsDB 是把 [xUtils3](https://github.com/wyouflf/xUtils3) 数据库模块单独抽取出来，方便使用！当前使用的是xUtils3的V3.5.0版本中的数据库模块。
 
 
 ## [xUtils3](https://github.com/wyouflf/xUtils3) 简介
